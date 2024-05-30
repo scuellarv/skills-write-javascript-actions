@@ -38,8 +38,8 @@ Thumbs.db
 
 # NodeJS
 # Node modules
-node_modules/
-**/node_modules/
+#node_modules/
+#**/node_modules/
 
 # Logs
 logs/
